@@ -62,7 +62,7 @@ __PolarChartGrid__ supports __GridLineVisibility__ and __StripesVisibility.__ Bo
 {{region radchart-cartesianchartgrid-and-polarchartgrid_2}}
 	<telerik:RadPolarChart>
 	    <telerik:RadPolarChart.Grid>
-	        <telerik:PolarChartGrid GridLineVisibility="Both" StripesVisibility="Radial">
+	        <telerik:PolarChartGrid GridLineVisibility="Both" StripesVisibility="Polar">
 	            <telerik:PolarChartGrid.RadialStripeBrushes>
 	                <SolidColorBrush Color="#FFD7D7D7" Opacity="0.3" />
 	                <SolidColorBrush Color="Transparent" />
